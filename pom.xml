@@ -8,6 +8,36 @@
     <artifactId>v2ray</artifactId>
     <version>1.0</version>
 
+    <name>v2ray-sdk</name>
+    <url>https://github.com/glzjin/v2ray-java-sdk</url>
+    <description>V2Ray API JAVA SDK</description>
+
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/glzjin/v2ray-java-sdk</url>
+        <connection>https://github.com/glzjin/v2ray-java-sdk.git</connection>
+    </scm>
+
+    <developers>
+        <developer>
+            <name>glzjin</name>
+            <id>glzjin</id>
+            <email>i@zhaoj.in</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+3</timezone>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>io.grpc</groupId>
