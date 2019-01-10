@@ -10,9 +10,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
 /**
- * @author: glzjin
- * @date:2019-01-10
- * @description:
+ * @version 1.0
+ * @author glzjin
  */
 public class V2RayApiClient {
     private static final Logger logger = Logger.getLogger(V2RayApiClient.class.getName());
